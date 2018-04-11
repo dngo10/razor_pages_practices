@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\RazorAppMovies\razor_pages_practices\bin\Debug\netcoreapp2.0\razor_pages_practices.deps.json
+C:\Users\pc\Desktop\RazorAppMovies\razor_pages_practices\bin\Debug\netcoreapp2.0\razor_pages_practices.runtimeconfig.json
+C:\Users\pc\Desktop\RazorAppMovies\razor_pages_practices\bin\Debug\netcoreapp2.0\razor_pages_practices.runtimeconfig.dev.json
+C:\Users\pc\Desktop\RazorAppMovies\razor_pages_practices\bin\Debug\netcoreapp2.0\razor_pages_practices.dll
+C:\Users\pc\Desktop\RazorAppMovies\razor_pages_practices\bin\Debug\netcoreapp2.0\razor_pages_practices.pdb
+C:\Users\pc\Desktop\RazorAppMovies\razor_pages_practices\obj\Debug\netcoreapp2.0\razor_pages_practices.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\RazorAppMovies\razor_pages_practices\obj\Debug\netcoreapp2.0\razor_pages_practices.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\RazorAppMovies\razor_pages_practices\obj\Debug\netcoreapp2.0\razor_pages_practices.AssemblyInfo.cs
+C:\Users\pc\Desktop\RazorAppMovies\razor_pages_practices\obj\Debug\netcoreapp2.0\razor_pages_practices.dll
+C:\Users\pc\Desktop\RazorAppMovies\razor_pages_practices\obj\Debug\netcoreapp2.0\razor_pages_practices.pdb
